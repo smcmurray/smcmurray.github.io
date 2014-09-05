@@ -1,2 +1,2 @@
-smcmurray-smcmurray.github.io
-=============================
+smcmurray.github.io
+===================
